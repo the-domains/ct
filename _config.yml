@@ -2,6 +2,7 @@ name: CT
 favicon: null
 layout_spectrum: 0.5739
 typography_spectrum: 0.59729
+title: Connecting Teams
 cta:
   domain: null
   bucket: null
