@@ -1,7 +1,7 @@
 name: CT
 favicon: null
 layout_spectrum: 0.5739
-typography_spectrum: 0.4401131693739444
+typography_spectrum: 0.59729
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3536089521367103
+    - '#60ba04'
+    - '#13b6eb'
+    - '#fefefe'
+    - '#000000'
+    - '#008000'
+  brandStrength: 1
   lightness: 0.5866724769584835
   saturation: 0.3180774359498173
   rhythmicContrast: 0.2467812409158796
